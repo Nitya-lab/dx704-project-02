@@ -1,0 +1,15 @@
+Acknowledgments
+
+
+The Libraries/Tools used 
+- pandas for data loading and manipulation
+- numpy for numeric calculations
+- matplotlib plots for sanity checks
+
+Data
+- I used the course provided file strawberry-prices.tsv
+
+People/Collaboration
+- I discussed this assignment with no one and did not use any additional sources beyond the course materials,
+other than occasional Google searches to help understand concepts covered in class.
+
